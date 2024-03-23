@@ -35,7 +35,7 @@ _The schematic's aesthetic improved significantly from the previous project. Lot
 
 ![image](https://github.com/JimpanzeeArchived/Snake-Game/assets/154708517/98e438ed-66f9-4416-abb3-6a2df111b175)
 
-_The same cannot be said about the PCB... I almost felt shame sending this for review. JCLPCB still manages to make it though :thumbsup:_
+_The same cannot be said about the PCB... I almost felt shame sending this for review. JLCPCB still manages to make it though :thumbsup:_
 
 
 
