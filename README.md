@@ -30,9 +30,11 @@ The final version of the project is not completed in time. The only function tha
 * Final PCB
 
 ![image](https://github.com/JimpanzeeArchived/Image/assets/154708517/7a6ae360-8f18-40ba-b073-326bfe1e1f32)
+
 _The schematic's aesthetic improved significantly from the previous project. Lots of research is done on good schematic practices_
 
 ![image](https://github.com/JimpanzeeArchived/Snake-Game/assets/154708517/98e438ed-66f9-4416-abb3-6a2df111b175)
+
 _The same cannot be said about the PCB... I almost felt shame sending this for review. JCLPCB still manages to make it though :thumbsup:_
 
 
