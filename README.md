@@ -12,6 +12,7 @@ The final version of the project is not completed in time. The only function tha
 * Learning SPI protocol
 * Learning linked list data structure
 * Develop MAX7219 driver
+* Schematic Design and PCB Design
 * Overall Coding
 
 ##### CODE EXPLANATION
@@ -34,11 +35,14 @@ The final version of the project is not completed in time. The only function tha
 * The PCB design should have been the first thing to do. Since I now know how to make a mediocre PCB (ish), future projects will begin with PCB design.
 
 **Cleaner Code:**
-*  Much of the time is wasted due to bugs that are caused by unorganized code.
-*  The logic of the code could be more well-planned.
+* Much of the time is wasted due to bugs that are caused by unorganized code.
+* The logic of the code could be more well-planned.
 
 **Memory Management:**
-*
+* Not a lot of thoughts are given to the memory allocation on the IC (both flash memory and stack memory). Only when the programmer reported that 3K bytes of flash were being loaded was I concerned about memory size.
+* I use “INT” when declaring most of my variables. Each “INT” variable takes up 4 bytes of memory, which is overkill for what it is used for.
+* In the future, I will use the appropriate declaration such as UINT16_T or UINT8_T to avoid wasting memory space.
+
 
 
 
