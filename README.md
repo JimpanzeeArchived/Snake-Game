@@ -20,6 +20,8 @@ The final version of the project is not completed in time. The only function tha
 
 **User Control**: Once the user presses the button for one of the 4 directions, the head of the snake changes direction. Once the head changes, function update_node() is called to update the position of the previous nodes to the position of the nodes that come before them. 
 
+![image](https://github.com/JimpanzeeArchived/Image/assets/154708517/be039b9f-21d2-44cf-99ea-ef47094d92f7)
+
 ##### HARDWARE
 * 4 x MAX7219 LED Driver ICs
 * 4 x 1088BS 8x8 LED Displays
