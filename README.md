@@ -55,6 +55,10 @@ _The same cannot be said about the PCB... I almost felt shame sending this for r
 * I use “INT” when declaring most of my variables. Each “INT” variable takes up 4 bytes of memory, which is overkill for what it is used for.
 * In the future, I will use the appropriate declaration such as UINT16_T or UINT8_T to avoid wasting memory space.
 
+**Good PCB Practice:**
+* The PCB is outrageous. The reason is I decided to use the through-hole version of the MAX7219, which is too big so I have to place them on the side instead of the middle, and results in asymmetry.
+* This is also my first PCB ever so I am still unfamiliar with the tools KiCad has to offer. I still don't know why you would perform a copper pour, or how to avoid EMC.
+* In the future, SMD components will be used instead of through-hole. **Symmetry** will be the main focus. Further learning is needed.
 
 
 
