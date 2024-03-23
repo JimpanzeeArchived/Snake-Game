@@ -33,7 +33,7 @@ The final version of the project is not completed in time. The only function tha
 
 _The schematic's aesthetic improved significantly from the previous project. Lots of research is done on good schematic practices_
 
-![image](https://github.com/JimpanzeeArchived/Snake-Game/assets/154708517/98e438ed-66f9-4416-abb3-6a2df111b175)
+![image](https://github.com/JimpanzeeArchived/Snake-Game/assets/154708517/98e438ed-66f9-4416-abb3-6a2df111b175) ![image](https://github.com/JimpanzeeArchived/Image/assets/154708517/38446f9c-610d-4b89-b66e-304737d7a0e1)
 
 _The same cannot be said about the PCB... I almost felt shame sending this for review. JLCPCB still manages to make it though :thumbsup:_
 
