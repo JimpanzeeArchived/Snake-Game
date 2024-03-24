@@ -4,6 +4,7 @@
 Just a regular snake game. The users can use buttons to move the snake and monitor the game using four 1088BS 8x8 LED displays (controlled by MAX7219 LED Driver ICs). If the snake’s head touches any of the snake’s body, the game restarts. The food is repopulated at random locations. The body of the snake increases by one node if the snake’s head touches the food piece. The complete version of the snake game would have incorporated four MAX7219 displays and soldered onto a customized PCB. Below is how the project works on a single LED display hardware prototype. 
 
 ![image](https://github.com/JimpanzeeArchived/Image/assets/154708517/d5faebe1-514b-437d-bc1e-53b3c1a72728) 
+
 https://github.com/JimpanzeeArchived/Snake-Game/assets/154708517/19308d14-5d4c-41dc-a974-3ed73c8db7ca
 
 _Hardware Prototype Video Demonstration_
